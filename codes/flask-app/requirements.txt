@@ -1,0 +1,5 @@
+Flask
+azure-ai-ml
+azure-identity
+numpy
+pandas
