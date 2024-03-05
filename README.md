@@ -1,4 +1,4 @@
-# Global Hackathon 2024
+# BrownBag Azure Examples
 
 ## Overview
 This github repository helps you to guide step by step procedure to create "ML Workspace", "Sample Git repo with Flask along with github actions" for novice Azure ML users
